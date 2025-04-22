@@ -1,0 +1,2 @@
+%{tl: [g: 20, y: 4, r: 15]}, tiempo fijo: 5
+%{tl: [g: 5, y: 2, r: 15]}, tiempo fijo: 42
